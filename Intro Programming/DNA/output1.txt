@@ -1,0 +1,13 @@
+Longest Common Sequences
+
+Pair 1: CAT
+
+Pair 2: CCCG
+
+Pair 3: TAAC
+
+Pair 4: CAT
+
+Pair 5: TTAA
+        TAAA
+

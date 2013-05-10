@@ -1,0 +1,21 @@
+Longest Common Sequences
+
+Pair 1: CAAG
+
+Pair 2: TA
+        CT
+        TA
+        TA
+
+Pair 3: ACAT
+        CATG
+        TTAA
+        ACTT
+        TGAA
+        TGAA
+
+Pair 4: GCC
+        CCT
+
+Pair 5: CAGTGT
+
